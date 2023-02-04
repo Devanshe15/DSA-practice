@@ -1,7 +1,7 @@
 # DSA-practice
 Day 1: 
-ques1: https://codeforces.com/contest/1791/problem/A
-ques2: https://codeforces.com/problemset/problem/1703/D
+1. https://codeforces.com/contest/1791/problem/A
+2. https://codeforces.com/problemset/problem/1703/D
 
 Day 2:
 Striver A2Z sheet/ course basic questions :
