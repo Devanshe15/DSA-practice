@@ -13,3 +13,6 @@ Striver A2Z sheet/ course basic questions :
 6. Reverse an array: https://bit.ly/3SRqzXU
 7. Check if a string is palindrome or not: https://bit.ly/3w2G4T5
 8. Fibonacci Number: https://bit.ly/3QUkkk2
+
+Day3:
+1. https://www.hackerrank.com/challenges/jesse-and-cookies/problem
