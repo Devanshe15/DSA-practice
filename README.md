@@ -16,3 +16,6 @@ Striver A2Z sheet/ course basic questions :
 
 Day3:
 1. https://www.hackerrank.com/challenges/jesse-and-cookies/problem
+
+Day4:
+1.https://codeforces.com/problemset/problem/118/A
