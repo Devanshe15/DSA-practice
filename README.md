@@ -20,11 +20,6 @@ Day3:
 Day 4:
 1. https://codeforces.com/problemset/problem/118/A
 
-Day 5:
-1. https://bit.ly/3ppA6YJ
-<<<<<<< HEAD
-
+Day 
 day 6:
- 
-=======
->>>>>>> a514a6e8b77dd8d5e1b7c906be19149409a053ac
+1. 
