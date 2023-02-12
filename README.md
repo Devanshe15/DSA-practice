@@ -22,4 +22,3 @@ Day 4:
 
 Day 
 day 6:
-1. sorting
