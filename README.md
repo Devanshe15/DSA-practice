@@ -21,4 +21,4 @@ Day 4:
 1. https://codeforces.com/problemset/problem/118/A
 
 Day 
-day 6:
+day 5:
