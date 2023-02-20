@@ -21,3 +21,4 @@ Day 4:
 1. https://codeforces.com/problemset/problem/118/A
 
 Day 5:
+striver's sheet
