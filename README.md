@@ -21,3 +21,7 @@ Day 4:
 1. https://codeforces.com/problemset/problem/118/A
 
 Day 5:
+'*' patterns
+
+Day 6:
+1. https://takeuforward.org/sorting/selection-sort-algorithm/
