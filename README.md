@@ -29,3 +29,6 @@ Day 6:
 
 Day 7:
 1. https://takeuforward.org/data-structure/bubble-sort-algorithm/
+
+Day 8:
+1. https://takeuforward.org/data-structure/insertion-sort-algorithm/
