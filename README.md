@@ -32,3 +32,6 @@ Day 7:
 
 Day 8:
 1. https://takeuforward.org/data-structure/insertion-sort-algorithm/
+
+Day 9:
+1. https://takeuforward.org/data-structure/merge-sort-algorithm/
