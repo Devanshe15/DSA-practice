@@ -35,3 +35,9 @@ Day 8:
 
 Day 9:
 1. https://takeuforward.org/data-structure/merge-sort-algorithm/
+
+Day 10:
+1.https://bit.ly/3QV65vI
+ 
+Day 11:
+https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/
