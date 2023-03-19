@@ -44,3 +44,6 @@ https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-e
 
 Day12:
 https://takeuforward.org/data-structure/peak-element-in-array/
+
+Day 13:
+https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/
