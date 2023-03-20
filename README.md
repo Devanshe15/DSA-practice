@@ -47,3 +47,10 @@ https://takeuforward.org/data-structure/peak-element-in-array/
 
 Day 13:
 https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/
+
+Day 14:
+https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/
+
+Day 15:
+
+https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/
