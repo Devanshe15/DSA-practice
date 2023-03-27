@@ -59,7 +59,8 @@ Day 16:
 https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/
 
 Day 17 :
-https://takeuforward.org/data-structure/stock-buy-and-sell/
+1.https://takeuforward.org/data-structure/stock-buy-and-sell/
+2.https://takeuforward.org/data-structure/insert-node-at-beginning-of-linked-list/
 
 Day 18:
 https://takeuforward.org/data-structure/stock-buy-and-sell/
