@@ -66,3 +66,4 @@ Day 18:
 https://takeuforward.org/data-structure/stock-buy-and-sell/
 
 Day 19:
+https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=array-of-alternate-ve-and-ve-nos
