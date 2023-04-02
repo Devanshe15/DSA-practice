@@ -25,30 +25,39 @@ Day 5:
 '*' patterns
 
 Day 6:
-1. https://takeuforward.org/sorting/selection-sort-algorithm/
+
+https://takeuforward.org/sorting/selection-sort-algorithm/
 
 Day 7:
-1. https://takeuforward.org/data-structure/bubble-sort-algorithm/
+
+https://takeuforward.org/data-structure/bubble-sort-algorithm/
 
 Day 8:
-1. https://takeuforward.org/data-structure/insertion-sort-algorithm/
+
+https://takeuforward.org/data-structure/insertion-sort-algorithm/
 
 Day 9:
-1. https://takeuforward.org/data-structure/merge-sort-algorithm/
+
+https://takeuforward.org/data-structure/merge-sort-algorithm/
 
 Day 10:
+
 1.https://bit.ly/3QV65vI
- 
+
 Day 11:
+
 https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/
 
 Day12:
+
 https://takeuforward.org/data-structure/peak-element-in-array/
 
 Day 13:
+
 https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/
 
 Day 14:
+
 https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/
 
 Day 15:
@@ -56,19 +65,24 @@ Day 15:
 https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/
 
 Day 16:
+
 https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/
 
 Day 17 :
+
 1.https://takeuforward.org/data-structure/stock-buy-and-sell/
 2.https://takeuforward.org/data-structure/insert-node-at-beginning-of-linked-list/
 
 Day 18:
+
 https://takeuforward.org/data-structure/stock-buy-and-sell/
 
 Day 19:
+
 https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=array-of-alternate-ve-and-ve-nos
 
 Day 20:
+
 https://practice.geeksforgeeks.org/problems/next-permutation5226/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=next-permutation
 
 
