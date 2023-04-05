@@ -1,0 +1,12 @@
+
+class solution:
+    def leaders(self, A, N):
+        x = A[-1]
+        a = []
+        a.append(x)
+        for i in range(N-2,-1,-1):
+          if A[i] >= x:
+            a.append(A[i])
+            x = A[i]
+        return(a[::-1])
+
