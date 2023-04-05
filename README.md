@@ -72,3 +72,5 @@ Day 20:
 https://practice.geeksforgeeks.org/problems/next-permutation5226/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=next-permutation
 
 
+Day 21:
+https://takeuforward.org/data-structure/leaders-in-an-array/
