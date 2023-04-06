@@ -88,3 +88,6 @@ https://practice.geeksforgeeks.org/problems/next-permutation5226/1?utm_source=yo
 
 Day 21:
 https://takeuforward.org/data-structure/leaders-in-an-array/
+
+Day22:
+https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/
