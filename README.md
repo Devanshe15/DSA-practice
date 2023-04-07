@@ -91,3 +91,5 @@ https://takeuforward.org/data-structure/leaders-in-an-array/
 
 Day22:
 https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/
+
+Day 23:
