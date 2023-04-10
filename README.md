@@ -94,5 +94,3 @@ https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array
 
 Day 23:
 https://takeuforward.org/data-structure/set-matrix-zero/
-
-Day24:
