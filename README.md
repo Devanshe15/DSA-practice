@@ -101,5 +101,3 @@ https://takeuforward.org/data-structure/binary-search-explained/
  
 Day 25:
 https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=row-with-max-1s
-
-Day 26:
