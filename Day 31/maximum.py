@@ -11,8 +11,8 @@ def MaximizeEqualNumbers (n, k, a):
 
 T = input()
 for i in range(T):
-    n, k = map(int, raw_input().split())
-    a = map(int, raw_input().split())
+    n, k = map(int, input().split())
+    a = map(int, input().split())
 
     out_ = MaximizeEqualNumbers(n, k, a) 
     
