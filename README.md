@@ -107,3 +107,6 @@ https://takeuforward.org/data-structure/rotate-image-by-90-degree/
  
 Day 27:
 https://takeuforward.org/data-structure/spiral-traversal-of-matrix/
+
+Day 28:
+
