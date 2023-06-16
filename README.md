@@ -5,14 +5,14 @@ Day 1:
 
 Day 2:
 Striver A2Z sheet/ course basic questions :
-1. print name n times using recursion: https://bit.ly/3y2BiWz
-2. Print 1 to N using recursion: https://bit.ly/3w3qhDh
-3. Print N to 1 using recursion: https://bit.ly/3LOkcBn
-4. Sum of first N numbers: https://bit.ly/3C9KZ8G
-5. Factorial of N numbers: https://bit.ly/3QugUVo
-6. Reverse an array: https://bit.ly/3SRqzXU
-7. Check if a string is palindrome or not: https://bit.ly/3w2G4T5
-8. Fibonacci Number: https://bit.ly/3QUkkk2
+1. https://bit.ly/3y2BiWz
+2. https://bit.ly/3w3qhDh
+3. https://bit.ly/3LOkcBn
+4. https://bit.ly/3C9KZ8G
+5. https://bit.ly/3QugUVo
+6. https://bit.ly/3SRqzXU
+7. https://bit.ly/3w2G4T5
+8. https://bit.ly/3QUkkk2
 
 Day3:
 1. https://www.hackerrank.com/challenges/jesse-and-cookies/problem
@@ -70,15 +70,14 @@ https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-i
 
 Day 17 :
 
-1.https://takeuforward.org/data-structure/stock-buy-and-sell/
-2.https://takeuforward.org/data-structure/insert-node-at-beginning-of-linked-list/
+1. https://takeuforward.org/data-structure/stock-buy-and-sell/
+2. https://takeuforward.org/data-structure/insert-node-at-beginning-of-linked-list/
 
 Day 18:
 
 https://takeuforward.org/data-structure/stock-buy-and-sell/
 
 Day 19:
-
 https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=array-of-alternate-ve-and-ve-nos
 
 Day 20:
@@ -109,4 +108,27 @@ Day 27:
 https://takeuforward.org/data-structure/spiral-traversal-of-matrix/
 
 Day 28:
+1. https://takeuforward.org/pattern/pattern-4-right-angled-number-pyramid-ii/
+2. https://takeuforward.org/pattern/pattern-4-right-angled-number-pyramid-ii/
+
+Day 29:
+google girl hackathon questions
+
+Day 30:
+https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not/
+
+Day 31:
+https://takeuforward.org/maths/check-if-a-number-is-armstrong-number-or-not/
+
+Day 32:
+1. https://takeuforward.org/data-structure/count-digits-in-a-number/
+2. https://takeuforward.org/data-structure/find-gcd-of-two-numbers/
+3. https://takeuforward.org/c-programs/reverse-a-number-in-c/
+
+Day 33:
+Practice questions
+
+Day 34:
+1. https://takeuforward.org/data-structure/check-if-a-number-is-prime-or-not/
+2. https://takeuforward.org/data-structure/print-all-divisors-of-a-given-number/
 
