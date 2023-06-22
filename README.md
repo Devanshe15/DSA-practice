@@ -133,3 +133,16 @@ Day 34:
 2. https://takeuforward.org/data-structure/print-all-divisors-of-a-given-number/
 
 Day 35:
+https://takeuforward.org/recursion/introduction-to-recursion-understand-recursion-by-printing-something-n-times/
+
+Day 36:
+https://takeuforward.org/recursion/print-1-to-n-using-recursion/
+
+Day 37:
+https://takeuforward.org/recursion/print-n-to-1-using-recursion/
+
+Day 38:
+https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/
+
+Day 39:
+https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive/
