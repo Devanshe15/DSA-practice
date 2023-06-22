@@ -132,3 +132,4 @@ Day 34:
 1. https://takeuforward.org/data-structure/check-if-a-number-is-prime-or-not/
 2. https://takeuforward.org/data-structure/print-all-divisors-of-a-given-number/
 
+Day 35:
