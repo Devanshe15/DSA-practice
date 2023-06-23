@@ -146,3 +146,6 @@ https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/
 
 Day 39:
 https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive/
+
+Day 40:
+https://takeuforward.org/data-structure/reverse-a-given-array/
