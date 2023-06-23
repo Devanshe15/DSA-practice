@@ -14,6 +14,6 @@ def reverseArray(arr, n):
 
 # Driver Code
 if __name__ == "__main__":
-    arr = list(map(int,input('enter an array')))
+    arr = list(map(int,input('enter an array').strip().split()))
     n = len(arr)
     reverseArray(arr, n)
