@@ -149,3 +149,11 @@ https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recu
 
 Day 40:
 https://takeuforward.org/data-structure/reverse-a-given-array/
+
+Day 41:
+
+
+Day 42:
+
+
+Day 43:
